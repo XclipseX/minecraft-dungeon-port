@@ -1,0 +1,9 @@
+{
+  "name": "Blockcrawl Dungeon",
+  "short_name": "Blockcrawl",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#14110f",
+  "theme_color": "#14110f"
+}
